@@ -1,3 +1,16 @@
+#  (2024-03-09)
+
+
+### Features
+
+* **main:** added lab03 files ([bc295cc](https://github.com/DrNikiyProgrammingAccount/study_2023-2024_os-intro/commit/bc295cc2c127a58cf579ff6b4b5707b12376da31))
+* **main:** added markdown files ([ee2d27d](https://github.com/DrNikiyProgrammingAccount/study_2023-2024_os-intro/commit/ee2d27d712a021f3386b53298d8b05b2180ab0e1))
+* **main:** added stage 1 for personal project ([563deda](https://github.com/DrNikiyProgrammingAccount/study_2023-2024_os-intro/commit/563dedae6b986d865645db700a8e4d6f5066b1c5))
+* **main:** added stage 1 for personal project ([03d955d](https://github.com/DrNikiyProgrammingAccount/study_2023-2024_os-intro/commit/03d955db0bee86d3b7a3ac7997b379d0d7d1a5bf))
+* **main:** make course structure ([aa04ea9](https://github.com/DrNikiyProgrammingAccount/study_2023-2024_os-intro/commit/aa04ea9cee3cc7e937d630c20a03000cc26f8ce3))
+
+
+
 ## [1.0.8](https://github.com/yamadharma/course-directory-student-template/compare/v1.0.7...v1.0.8) (2024-02-13)
 
 
